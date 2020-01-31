@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace TDigest.Test
+namespace Shirhatti.Math.Stats.Test
 {
     public class UnitTest1
     {
